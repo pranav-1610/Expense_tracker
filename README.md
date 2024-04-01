@@ -22,9 +22,7 @@
   - [Tests](#tests)
   - [Questions](#questions)
   
-  ## Installation
-  
-  deployed app URL:  https://expense-tracker-mern.herokuapp.com/
+
   
   ## Usage
   
