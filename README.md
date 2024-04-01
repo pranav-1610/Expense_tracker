@@ -35,7 +35,7 @@ This application is covered under the MIT License.
 <br>For more information: https://opensource.org/licenses/MIT
   
   ## Contributors
-  Bill Stephens https://github.com/BillStephens2022 <br>
-  Jonathan Plaras https://github.com/pljon <br>
-  Joe Sedlak https://github.com/jsedlak146 <br>
-  Marc Nicolas https://github.com/marcnicolas0915 <br>
+  Pranav Sharma https://github.com/pranav-1610 <br>
+  Riya Hablani https://github.com/RiyaHablani <br>
+  Pratap Kanase https://github.com/Pratap-Kanase <br>
+ 
